@@ -10,7 +10,7 @@ const Navbar = ({ toggleTheme }) => {
             <Container maxWidth='xl'>
                 <div className={styles.cont}>
                     <Link to='/'> To do app</Link>
-                    <Button onClick={() => toggleTheme()}>Toggle </Button>
+                    <Button onClick={() => toggleTheme()}>Toggle theme </Button>
                 </div>
 
             </Container>

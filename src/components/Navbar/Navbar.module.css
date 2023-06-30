@@ -8,3 +8,10 @@
     font-size: 22px;
     color: var(--main);
 }
+
+
+.cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
